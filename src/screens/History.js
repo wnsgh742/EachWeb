@@ -4,12 +4,12 @@ import styled from "styled-components/native";
 const Contianer = styled.View``;
 const Titlte = styled.Text``;
 
-const QRscanner = ()=>{
+const History = ()=>{
     return( 
         <Contianer>
-            <Titlte>QRscanner</Titlte>
+            <Titlte>History</Titlte>
             </Contianer>
     )
 }
 
-export default QRscanner;
+export default History;
